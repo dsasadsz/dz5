@@ -2,8 +2,8 @@ package modul6;
 import java.util.*;
 
 interface Obs {
-    void upd(double rate);  // update
-    String getN();          // getName
+    void upd(double rate);
+    String getN();
 }
 
 interface Subj {
